@@ -44,3 +44,17 @@ We implemented a mobile app and web app trying to address these issues by:
 ## Inspiration for Geolocation Curbside Pickup
 
 Our team spent 6 hours brainstorming and assessing the different cases provided by BestBuy. We decided to allocate our working time efficiently by tackling a problem that is not as complicated but make sure to get our application working as a starter. 
+
+## My Information
+
+
+[<img align="left" alt="miki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/miki-yin/)
+[<img align="left" alt="miki | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/supermikii)
+
+
+
+
+<br>
+
+[Back To The Top](#bestbuy-geolocation-app-bizhacks)
+
