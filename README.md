@@ -32,7 +32,7 @@ We implemented a mobile app and web app trying to address these issues by:
 
 2.The frontend web app will be updated with arriving user's information if they manually inputted 15 minutes or less on the mobile app or if they are within 15 from designated Bestbuy location. The frontend web app is meant for staff's to look at incoming customers and prepare item ahead of time.
 
-<img src="web_frontend\query.png" alt="drawing" width="900"/>
+<img src="web_frontend\query .png" alt="drawing"/>
 
 ## Teammates
 * Miki Y
