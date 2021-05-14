@@ -26,7 +26,7 @@ We implemented a mobile app and web app trying to address these issues by:
 * **Dependencies** Axios, SendGrid
 
 ## Demo Interfaces
-1.User select the order they want to pick up via mobile app, they will be redirected next screen where they can either **enable their geolocation** or **manually input time to arrive at store**
+1.User select the order they want to pick up using the mobile app, they will be redirected next screen where they can either **enable their geolocation** or **manually input time to arrive at store**
 
 <img src="mobile_frontend\assets\app1.png" alt="drawing" width="300" height="600"/> <img src="mobile_frontend\assets\2.png" alt="drawing" width="300" height="600"/><img src="mobile_frontend\assets\3.jpg" alt="drawing" width="300" height="600"/><img src="mobile_frontend\assets\4.png" alt="drawing" width="300" height="600"/>
 
